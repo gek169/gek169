@@ -8,7 +8,33 @@ I've contributed a fair number of projects to the free software world. I have tr
 
 I have also donated a significant amount of my time contributing to public free software projects.
 
-
+Notable projects available on github:
+* TinyGL- the ultimate portable graphics library, C89 compatible (Derived from Fabrice Bellard's TinyGL)
+* SISA-16- a tiny CISC with its own assembly language and recursively macro-enabled assembler
+* Wallpapers- Wallpapers created for the Debian project, Ubuntu, and other Linux distributions.
+* GSGE- Gek's Simple Game Engine, a free game engine which uses OpenGL 3.3 and C++11. One of my oldest projects here on Github. Comes with a variety of tools for manipulating OBJ files and defines its own OBJ file format extensions to support per-vertex color and even bone weights. Comes with Blender export scripts for this format as well as the custom animation format of the engine, written by me.
+* SDF Tracer- a marching raytracer written in C which is designed to be easily extended.
+* ChadMath- a public domain GLU replacement with collision detection routines which is SIMD accelerated by GCC and Clang on supported platforms.
+* ChadPhys- a public domain physics engine for games (In alpha development)
+* Kernel8/Kernel9- functional intermediate representation language for high-performance secure computing, with an emphasis on parallelism and defined behavior in C11 (Kernel8) and C++11 (Kernel9) respectively.
+* tobjparse.h- a tiny public domain C99 OBJ parser capable of parsing GSGE compatible OBJ files, including the vertex color extension.
+* AIStateMachines- a custom language for expressing state machines, designed to make writing game logic that is massively parallel much easier.
+* OpenIMGUI- an open standard for cross platform immediate mode GUIs with a minimal implementation in TinyGL. Usable example provided.
+* TinyGL3DS- TinyGL on the Nintendo 3DS. Brings a subset of OpenGL to a platform which otherwise does not have a publically available GL implementation.
+* hmap and dhmap.c- Comanche-style Heightmap terrain renderer. The latter actually generates a map on program launch.
+* api.h- public domain software rasterizer library and audio wrapper for SDL2.
+* api_audio.h- SDL 1.2 port of only the audio portions of api.h.
+* gekAL- OpenAL based audio library.
+* Fixed Memory Containers- a variety of memory management models and data structures written in C, with special emphasis on fixed-memory implementations which use global structs and arrays.
+* bigfont- Linux commandline utility to take text and make it *bigger*
+* Thinput- Ultra-portable input mapping scheme to embed in games which allows users to design their own key bindings of arbitrary complexity, using a custom deterministic bytecode executed at runtime
+* LockStepThread- Public domain POSIX threading library which implements a "lock step" thread, very useful for games and game engines.
+* Safepointer- Safe memory management scheme for C.
+* GodotSaveLoad- saving and loading implementation in gdscript for Godot 3.3
+* TinyServer- tiny HTTP server implementation I wrote for CS 270.
+* wall- program which makes logo wallpapers using an image and two palettes.
+* noise- program to generate layered noise with operations performed between the layers. Bitwise is funky! Used in conjunction with wall to dynamically generate wallpapers.
+* 
 
 For business or inquiries:
 davidmhswebster@gmail.com
