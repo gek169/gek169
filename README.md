@@ -1,4 +1,4 @@
-### Hello there 👋
+# [MHS]
 
 I'm a computer science major studying at the University of Kentucky.
 
