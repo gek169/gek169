@@ -1,12 +1,20 @@
-# D[MHS]W
+# David [MHS] W.
 
-I'm a computer science major studying at the University of Kentucky.
+I'm a computer science major studying at the University of Kentucky. My hobbies:
 
-I've been writing C code since I was 13 years old and am familiar with the family up to C++20 (Spaceship operator, concepts...)
+* Making digital visual art.
+* Writing C and Javascript.
+* Working out.
+* Making music (Not very *good* music, mind you...)
+* Listening to old music
+* Talking to people on the internet.
 
-I've contributed a fair number of projects to the free software world. I have tried to put as many of them as I can on github, although the nature by which I create experimental projects causes them to be in clumps. None of my projects have been all that incredible, but they are free.
+I've been writing C code since I was 13 years old and am familiar with the C family up to C++20 (Spaceship operator, concepts...).
 
-I have also donated a significant amount of my time contributing to public free software projects.
+I write more C code than C++ code purely because I find it more fun. C++ has the potential to be far more productive as a language, but it is cumbersome. For every useful abstraction C++ provides, there seems to be a thousand ways that even the most seasoned C++ developers have misused and abused it either out of ignorance or apathy. I find C++ becomes spaghetti far more rapidly than C and the accumulation of technical debt is an order of magnitude more disastrous.
+
+I've contributed a fair number of projects to the free software world. Not all of them are on my Github, but certainly the ones i've contributed the most to. I have forked a couple repositories without any modifications on occasion, purely as a sign of respect an interest.
+
 
 ### Yes, I know the basics of devops and web development
 I am intimately familiar with PHP, Javascript, HTML, and CSS. I've written code
@@ -14,20 +22,20 @@ which interacts with SQL databases from PHP and docker containers.
 
 I have written server backend implementations (some of which are on github) using node, docker, nginx, apache2, and even in plain C (I have two separate http servers written in c, actually)
 
-I first learned about web development at university but I have had a lot of fun doing it on my own.
+I first learned about web development at university but I have had a lot of fun doing it on my own. I have plans to study it further.
 
 
 ### Notable passion projects I have written or contributed to available on my github:
-* TinyGL- the ultimate portable graphics library, C89 compatible (Derived from Fabrice Bellard's TinyGL)
+* TinyGL- the penultimate portable graphics library, C99 compatible (Derived from Fabrice Bellard's TinyGL)
 * C-Chads- free software programming group I founded.
 * SISA-16- a tiny RISC load/store architecture with its own assembly language and recursively macro-enabled assembler. I plan to write my own forth-like programming language for it, which I will call "Fifth" but I haven't gotten around to it yet.
 * Wallpapers- Wallpapers created for the Debian project, Ubuntu, Arch, Gentoo, and other Linux distributions.
 * GSGE- Gek's Simple Game Engine, a free multithreaded, windows/linux/mac game engine which uses OpenGL 3.3, GLFW, GLM, and C++11. One of my oldest projects here on Github (Definitely needs a refactor). Comes with a variety of tools for manipulating OBJ files and defines its own OBJ file format extensions to support per-vertex color and even bone weights. Comes with Blender export scripts for this format as well as the custom animation format of the engine.
-* C_GE- Miniature game engine written in pure C99.
+* C_GE- Miniature game engine written in pure C99, fully featured lua binding plus physics engine.
 * P5_Game- game engine and some sketches, written in P5.js. Also has some fun stuff written with three js and cannon js.
 * SDF Tracer- a marching raytracer written in C which is designed to be easily extended.
-* ChadMath- a public domain GLU replacement with collision detection routines which is SIMD accelerated by GCC and Clang on supported platforms.
-* ChadPhys- a public domain physics engine for games (In alpha development)
+* ChadMath- a public domain GLU replacement with bonus collision detection routines which is SIMD accelerated by GCC and Clang on supported platforms. (3dMath.h)
+* ChadPhys- a public domain physics engine for games (chadphys.h)
 * Kernel8/Kernel9- functional intermediate representation language for high-performance secure computing, with an emphasis on parallelism and defined behavior in C11 (Kernel8) and C++11 (Kernel9) respectively.
 * tobjparse.h- a tiny public domain C99 OBJ parser capable of parsing GSGE compatible OBJ files, including the vertex color extension.
 * AIStateMachines- a custom language for expressing state machines, designed to make writing game logic that is massively parallel much easier.
