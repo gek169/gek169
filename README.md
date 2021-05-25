@@ -20,7 +20,7 @@ I've contributed a fair number of projects to the free software world. Not all o
 I am intimately familiar with PHP, Javascript, HTML, and CSS. I've written code
 which interacts with SQL databases from PHP and docker containers.
 
-I have written server backend implementations (some of which are on github) using node, docker, nginx, apache2, and even in plain C (I have two separate http servers written in c, actually)
+I have written server backend implementations (some of which are on github) using node, deno, docker, nginx, apache2, and even in plain C (I have two separate http servers written in c, actually)
 
 I first learned about web development at university but I have had a lot of fun doing it on my own. I have plans to study it further.
 
