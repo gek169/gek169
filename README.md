@@ -5,6 +5,10 @@
 https://github-readme-stats.vercel.app/api/top-langs/?username=gek169&layout=compact&theme=github_dark
 )
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gek169/count.svg" />
+
 I'm a computer science major studying at the University of Kentucky. My hobbies:
 
 * Making digital visual art.
