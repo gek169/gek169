@@ -1,4 +1,6 @@
 # David [MHS] W.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gek169&count_private=true&show_icons=true&theme=github_dark)
+
 
 I'm a computer science major studying at the University of Kentucky. My hobbies:
 
