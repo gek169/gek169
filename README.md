@@ -22,7 +22,7 @@ I've been writing C code since I was 13 years old and am familiar with the C fam
 
 I write more C code than C++ code purely because I find it more fun. C++ has the potential to be far more productive as a language, but it is cumbersome. For every useful abstraction C++ provides, there seems to be a thousand ways that even the most seasoned C++ developers have misused and abused it either out of ignorance or apathy. I find C++ becomes spaghetti far more rapidly than C and the accumulation of technical debt is an order of magnitude more disastrous.
 
-I've contributed a fair number of projects to the free software world. Not all of them are on my Github, but certainly the ones i've contributed the most to. I have forked a couple repositories without any modifications on occasion, purely as a sign of respect an interest.
+I've contributed a fair number of projects to the free software world. Not all of them are on my Github, but certainly the ones i've contributed the most to. I have forked a couple repositories without any modifications on occasion, purely as a sign of respect and interest.
 
 
 ### Yes, I know the basics of devops and web development
