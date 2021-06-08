@@ -31,6 +31,8 @@ which interacts with SQL databases from PHP and docker containers.
 
 I have written server backend implementations (some of which are on github) using node, deno, docker, nginx, apache2, and even in plain C.
 
+I am able to write apps using javascript with electron and node.
+  
 I first learned about web development at university but I have had a lot of fun doing it on my own. I have plans to study it further.
 
 
