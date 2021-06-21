@@ -39,7 +39,7 @@ I first learned about web development at university but I have had a lot of fun 
 ### Notable passion projects I have written or contributed to available on my github:
 * TinyGL- the penultimate portable graphics library, C99 compatible (Derived from Fabrice Bellard's TinyGL)
 * C-Chads- free software programming group I founded.
-* SISA-16- a tiny RISC load/store architecture with its own assembly language and recursively macro-enabled assembler. I plan to write my own forth-like programming language for it, which I will call "Fifth" but I haven't gotten around to it yet.
+* SISA-16- a tiny RISC load/store architecture with its own assembly language and recursively macro-enabled assembler. Capable of replacing languages like Lua for program extension. Has the ability to self-encapsulate. I'm working on a higher level language that will use it.
 * Wallpapers- Wallpapers created for the Debian project, Ubuntu, Arch, Gentoo, and other Linux distributions.
 * GSGE- Gek's Simple Game Engine, a free multithreaded, windows/linux/mac game engine which uses OpenGL 3.3, GLFW, GLM, and C++11. One of my oldest projects here on Github (Definitely needs a refactor). Comes with a variety of tools for manipulating OBJ files and defines its own OBJ file format extensions to support per-vertex color and even bone weights. Comes with Blender export scripts for this format as well as the custom animation format of the engine.
 * C_GE- Miniature game engine written in pure C99, fully featured lua binding plus physics engine.
@@ -90,4 +90,4 @@ I do not understand exactly why, but github sporadically decides not to count my
 
 I suspect it is because I use an alias on my machine `gitap` which makes the commit message "Automatic Commit" and because the email tied to my git on my main development machine is `gek@katherine`, which is used when making commits over SSH. It seems to count the pushes that I make via https rather than SSH, though, but Github claims this will be deprecated, so I am trying not to use it.
 
-It is extremely rare for me not to make any commits to any repositories on a given day.
+I make commits to github in fits and bursts when I have ideas or when I'm asked to work on a project.
