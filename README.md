@@ -88,6 +88,6 @@ Here are some ideas to get you started:
 ### Github Activity
 I do not understand exactly why, but github sporadically decides not to count my commits as activity on github.
 
-I suspect it is because I use an alias on my machine `gitap` which makes the commit message "Automatic Commit" and because the email tied to my git on my main development machine is `get@katherine`, which is used when making commits over SSH. It seems to count the pushes that I make via https rather than SSH, though, but Github claims this will be deprecated, so I am trying not to use it.
+I suspect it is because I use an alias on my machine `gitap` which makes the commit message "Automatic Commit" and because the email tied to my git on my main development machine is `gek@katherine`, which is used when making commits over SSH. It seems to count the pushes that I make via https rather than SSH, though, but Github claims this will be deprecated, so I am trying not to use it.
 
 It is extremely rare for me not to make any commits to any repositories on a given day.
