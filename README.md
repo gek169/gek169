@@ -39,7 +39,7 @@ I first learned about web development at university but I have had a lot of fun 
 ### Notable passion projects I have written or contributed to available on my github:
 * TinyGL- the penultimate portable graphics library, C99 compatible (Derived from Fabrice Bellard's TinyGL)
 * C-Chads- free software programming group I founded.
-* SISA-16- a fully fleshed out 16/32 bit architecture complete with assembler, disassembler, debugger, emulator, and a textmode driver. Executes many times faster than lua, and is notably better than javascript at tasks which use complex structures. A compiler is planned.
+* SISA-16- a fully fleshed out 16/32 bit architecture complete with assembler, disassembler, debugger, emulator, and a textmode driver. Executes many times faster than lua, and is notably better than javascript at tasks which use complex structures. A standard library roughly equating to the capabilities of the Commodore KERNAL is in development, as well as expression parsing and high level syntax in the assembler.
 * Wallpapers- Wallpapers created for the Debian project, Ubuntu, Arch, Gentoo, and other Linux distributions.
 * GSGE- Gek's Simple Game Engine, a free multithreaded, windows/linux/mac game engine which uses OpenGL 3.3, GLFW, GLM, and C++11. One of my oldest projects here on Github (Definitely needs a refactor). Comes with a variety of tools for manipulating OBJ files and defines its own OBJ file format extensions to support per-vertex color and even bone weights. Comes with Blender export scripts for this format as well as the custom animation format of the engine.
 * C_GE- Miniature game engine written in pure C99, fully featured lua binding plus physics engine.
