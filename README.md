@@ -12,22 +12,26 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=gek169&layout=com
 I'm a computer science major studying at the University of Kentucky. My hobbies:
 
 * Making digital visual art.
-* Writing C, Javascript, C++, and sometimes lua and other languages.
-* Working out.
+* Writing C, occasionally Javascript. I will work on C++ projects occasionally.
+* Working out. Lifting.
 * Making music (Not very *good* music, mind you...)
-* Listening to old music
+* Listening to banger tunes from the nineties.
 * Talking to people on the internet.
 
 I've been writing C code since I was 13 years old and am familiar with the C family up to C++20 (Spaceship operator, concepts...).
 
-I write more C code than C++ code purely because I find it more fun. C++ has the potential to be far more productive as a language, but it is cumbersome. For every useful abstraction C++ provides, there seems to be a thousand ways that even the most seasoned C++ developers have misused and abused it either out of ignorance or apathy. I find C++ becomes spaghetti far more rapidly than C and the accumulation of technical debt is an order of magnitude more disastrous.
+Yes, I can write C++. I find some of the design decisions... questionable at best. C++ and OOP in general tends to involve a lot of anti-patterns that make code harder to read and harder to maintain. A nice C++ codebase is a hard find.
 
 I've contributed a fair number of projects to the free software world. Not all of them are on my Github, but certainly the ones i've contributed the most to. I have forked a couple repositories without any modifications on occasion, purely as a sign of respect and interest.
+  
+The project I feel is of the most interest as a Computer Science topic is my own architecture and programming language, SISA16, which I devised as a way of writing cross-platform low-level code. It is a von-neumann architecture capable of self-modifying code. It has no memory mapping unit, nor privilege levels but still has the ability to fully sandbox its own execution- sort of like a privilege ring. If I had to describe it, I'd call it a "cut-down overclocked M68k" or perhaps a "65c02 on steroids". It is almost as fast as the V8 javascript engine for equivalent asm.js style code on the same CPU (every operation has an |0 to force 32 bit ops to be generated... yada yada), although for most tasks Sisa16 is faster, due to sisa16 not using syscalls or mallocs where a javascript engine spams them.
+
+I am currently working on an improved architecture designed for high performance JIT and a true "cross-platform assembly language" called "CISCY". I estimate it will outperform sisa16 by a factor of two or maybe even three when i'm finished. It should be on github this year, but I am making no promises. I am hoping it will be a viable programming language for OSdev and that is indeed one of my goals- a full kernel written almost entirely in my own assembly language, which can run on almost any architecture. I believe in James Gosling's vision of "Replacing CPU hardware", I simply think Java took some wrong turns.
 
 
 ### Yes, I know the basics of devops and web development
 I am intimately familiar with PHP, Javascript, HTML, and CSS. I've written code
-which interacts with SQL databases from PHP and docker containers.
+which interacts with SQL databases from PHP and docker containers. If you want to hire me for that, I will not disappoint!
 
 I have written server backend implementations (some of which are on github) using node, deno, docker, nginx, apache2, and even in plain C.
 
@@ -39,7 +43,7 @@ I first learned about web development at university but I have had a lot of fun 
 ### Notable passion projects I have written or contributed to available on my github:
 * TinyGL- the penultimate portable graphics library, C99 compatible (Derived from Fabrice Bellard's TinyGL)
 * C-Chads- free software programming group I founded.
-* SISA-16- a fully fleshed out 16/32 bit architecture complete with assembler, disassembler, debugger, emulator, and a textmode driver. Executes many times faster than lua, and is notably better than javascript at tasks which use complex structures. A standard library roughly equating to the capabilities of the Commodore KERNAL is in development, as well as expression parsing and high level syntax in the assembler.
+* SISA16- a fully fleshed out 16/32 bit architecture complete with assembler, disassembler, debugger, emulator, and a textmode driver. Executes many times faster than lua, almost as fast as V8 with equivalent asm.js code. 
 * Wallpapers- Wallpapers created for the Debian project, Ubuntu, Arch, Gentoo, and other Linux distributions.
 * GSGE- Gek's Simple Game Engine, a free multithreaded, windows/linux/mac game engine which uses OpenGL 3.3, GLFW, GLM, and C++11. One of my oldest projects here on Github (Definitely needs a refactor). Comes with a variety of tools for manipulating OBJ files and defines its own OBJ file format extensions to support per-vertex color and even bone weights. Comes with Blender export scripts for this format as well as the custom animation format of the engine.
 * C_GE- Miniature game engine written in pure C99, fully featured lua binding plus physics engine.
