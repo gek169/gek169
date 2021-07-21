@@ -26,7 +26,7 @@ I've contributed a fair number of projects to the free software world. Not all o
   
 The project I feel is of the most interest as a Computer Science topic is my own architecture and programming language, SISA16, which I devised as a way of writing cross-platform low-level code. It is a von-neumann architecture capable of self-modifying code. It has no memory mapping unit, nor privilege levels but still has the ability to fully sandbox its own execution- sort of like a privilege ring. If I had to describe it, I'd call it a "cut-down overclocked M68k" or perhaps a "65c02 on steroids". It is almost as fast as the V8 javascript engine for equivalent asm.js style code on the same CPU (every operation has an |0 to force 32 bit ops to be generated... yada yada), although for most tasks Sisa16 is faster, due to sisa16 not using syscalls or mallocs where a javascript engine spams them.
 
-I am currently working on an improved architecture designed for high performance JIT and a true "cross-platform assembly language" called "CISCY". I estimate it will outperform sisa16 by a factor of two or maybe even three when i'm finished. It should be on github this year, but I am making no promises. I am hoping it will be a viable programming language for OSdev and that is indeed one of my goals- a full kernel written almost entirely in my own assembly language, which can run on almost any architecture. I believe in James Gosling's vision of "Replacing CPU hardware", I simply think Java took some wrong turns.
+I am currently working on an improved architecture designed for high performance JIT and a true "cross-platform assembly language" called "CISCY". However, I still write Sisa16 code.
 
 
 ### Yes, I know the basics of devops and web development
