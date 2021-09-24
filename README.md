@@ -16,7 +16,7 @@ I'm a computer science major studying at the University of Kentucky. My hobbies:
 * Working out. Lifting.
 * Making music (Not very *good* music, mind you...)
 * Listening to banger tunes from the nineties.
-* Talking to people on the internet.
+* Reading. My favorite Author is Robert Asprin.
 
 I've been writing C code since I was 13 years old and am familiar with the C family up to C++20 (Spaceship operator, concepts...).
 
